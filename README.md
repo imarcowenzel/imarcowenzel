@@ -1,8 +1,10 @@
 ## 💜 Olá, meu nome é <strong>{Marco Antonio}!</strong>
 
-> Advogado especialista em Direito Constitucional por formação, após 3 (três) anos trabalhando na área, decidi por me desafiar e realizar uma recolacação profissional, seguindo para a área da tecnologia, na qual desde a infância fui apaixonado e incentivado. Decidi então, focar em Desenvolvimento Web, a iniciar pelo Front-End, estudando HTML5, CSS3 e depois programando utilizando o JavaScript. Atualmente, estou realizando a criação de projetos pessoais em Sigle Page Application (SPA), com a utilização da biblioteca React.js.
+> Advogado especialista em Direito Constitucional por formação, após 3 (três) anos trabalhando na área, decidi por me desafiar e realizar uma recolacação profissional, seguindo para a área da tecnologia, na qual desde a infância fui apaixonado e incentivado. Decidi então, focar em Desenvolvimento Web, a iniciar pelo Front-End, estudando HTML5, CSS3 e depois programando utilizando o JavaScript. Atualmente, estou realizando a criação de projetos pessoais em Sigle Page Application (SPA), com a utilização da biblioteca React.js e o framework Next.js.
 
-🔭 Atualmente estou desenvolvendo o Exposure, um site baseado no Unplash e VSCO, no qual o usuário pode compartilhar suas fotografias.
+🔭 Meu projeto atual é o Exposure, um site com operações CRUD, criado utilizando a biblioteca React.js e o SDK Firebase, para compartilhamento de fotos, com design inspirado no VSCO e Unplash.
+
+Com a intenção de otimizar o carregamento da página, estou estudando o Next.js (CSR, SSR e SGR) para migrar o Exposure de React.js para ele.
 
 💬 Para contatos, segue o link do meu LinkedIn: https://www.linkedin.com/in/marco-antonio-o-82b6141a5/
 
