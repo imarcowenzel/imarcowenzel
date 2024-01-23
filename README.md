@@ -1,8 +1,8 @@
 ## 💜 Olá, meu nome é <strong>{Marco Antonio}!</strong>
 
-> Advogado especialista em Direito Constitucional por formação, após 3 (três) anos trabalhando na área, decidi por me desafiar e realizar uma recolacação profissional, seguindo para a área da tecnologia, na qual desde a infância fui apaixonado e incentivado. Decidi então, focar em Desenvolvimento Web, a iniciar pelo Front-End, estudando HTML5, CSS3 e depois programando utilizando o JavaScript. Atualmente, estou realizando a criação de projetos pessoais em Sigle Page Application (SPA), com a utilização da biblioteca React.js e o framework Next.js.
+> Advogado (OAB/SP 444.160) com especialização em Direito Constitucional, acumulei três anos de experiência nas áreas trabalhista, cível e do consumidor. Decidi abraçar um novo desafio, realinhando minha carreira com minha paixão de infância pela tecnologia.Durante esse período de transição, adquiri conhecimentos teóricos e práticos em HTML, CSS, JavaScript (vanilla), integração com APIs e desenvolvimento de back-ends utilizando Node.js e CLI. Comprometido com boas práticas, acessibilidade e responsividade, atualmente estou concentrado no desenvolvimento de projetos SPA (Single Page Application) com React.js, Next.js, MongoDB e SQL como bancos de dados. Além disso, possuo habilidades em controle de versões utilizando o Git.
 
-🔭 Meu projeto atual é o EXPOSURE, um app web para compartilhamento de fotos, criado utilizando o framework Next.js 13, Tailwind CSS, Auth.js, MongoDB e o uploadthing, com design inspirado no VSCO e Unplash.
+🔭 Um dos projetos em destaque é o EXPOSURE, um aplicativo web para compartilhamento de fotos. Desenvolvido utilizando Next.js, Tailwind CSS, Auth.js, MongoDB e a biblioteca de upload uploadthing, o design foi inspirado nas plataformas VSCO e Unplash.
 
 💬 Para contatos, segue o link do meu LinkedIn: https://www.linkedin.com/in/marco-antonio-o-82b6141a5/
 
