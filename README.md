@@ -4,7 +4,7 @@
 
 🔭 Um dos projetos em destaque é o EXPOSURE, um aplicativo web para compartilhamento de fotos. Desenvolvido utilizando Next.js, Tailwind CSS, Auth.js, MongoDB e a biblioteca de upload uploadthing, o design foi inspirado nas plataformas VSCO e Unplash.
 
-💬 Para contatos, segue o link do meu LinkedIn: https://www.linkedin.com/in/marco-antonio-o-82b6141a5/
+💬 Para contatos, segue o link do meu LinkedIn: https://www.linkedin.com/in/imarcowenzel/
 
 ----
 
