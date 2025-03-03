@@ -10,7 +10,7 @@
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,react,next,git,mongo,nodejs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,c,git)](https://skillicons.dev)
 
 ---
 
